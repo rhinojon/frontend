@@ -11,7 +11,7 @@ export const shipping = [
         collectorfullname: "TBA",
         collectoraddress: "TBA",
         collectortel: "+8187495570",
-        itemsname: "Gold Bars",
+        itemsname: "Gold Bars (8 Kgs)",
         departuretime: "23:20",
         arrivalcity: "Los Angeles",
         arrivalcountry: "United States of America",
@@ -37,12 +37,21 @@ export const shipping = [
         date: "March 23 2022",
         formitems: [
             {
+                number:4,
+                timeevents: "23:30",
+                dateevents: "23/03/2022",
+                currentlocation: "Nairobi",
+                shippingstatus: "Departed",
+                notes: "8 Kilograms Gold bars departed for Los Angeles (LAX) Via Istanbul (IST)",
+                _id: "62367f16asxwe0ah8cc77a"
+            },
+            {
                 number:3,
                 timeevents: "22:30",
                 dateevents: "23/03/2022",
                 currentlocation: "Nairobi",
                 shippingstatus: "Processed",
-                notes: "8 Kilograms Gold bars ready for departure for departure NBO-IST-LAX. Departure/date/time(NbO): 23/03/2022@23:20/Arrival/date/timee(Ist):24/03/2022@05:20",
+                notes: "8 Kilograms Gold bars ready for departure NBO-IST-LAX. [Departure/date/time(NBO): 23/03/2022@23:20] / [Arrival/date/time(IST): 24/03/2022@05:20]",
                 _id: "62367f16asxwe0ae8cc77a"
             },
             {
