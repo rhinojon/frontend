@@ -1,0 +1,20 @@
+.fallback {
+  background-color: #202020;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+}
+
+.fallback-h3 {
+  color: white;
+  font-family: Monda;
+  justify-content: center;
+}/*# sourceMappingURL=fallback.css.map */
