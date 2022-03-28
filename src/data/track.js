@@ -37,6 +37,24 @@ export const shipping = [
         date: "March 23 2022",
         formitems: [
             {
+                number:7,
+                timeevents: "17:10",
+                dateevents: "28/03/2022",
+                currentlocation: "Istanbul",
+                shippingstatus: "Departed",
+                notes: "8 Kilograms Gold bars departed for Los Angeles (LAX) Via Warsaw (WAW)",
+                _id: "62367f16asxwe0ak8cc77a"
+            },
+            {
+                number:6,
+                timeevents: "15:11",
+                dateevents: "28/03/2022",
+                currentlocation: "Istanbul",
+                shippingstatus: "Processing",
+                notes: "8 Kilograms Gold bars moved to the export bay pending clearance for departure to (LAX)/Los Angeles via (WAW)/Poland",
+                _id: "62367f16asxwe0aj8cc77a"
+            },
+            {
                 number:5,
                 timeevents: "05:40",
                 dateevents: "24/03/2022",
