@@ -16,7 +16,7 @@ export const shipping = [
         arrivalcity: "Los Angeles",
         arrivalcountry: "United States of America",
         arrivaltime: "12:05",
-        arrivaldate: "24/03/2022",
+        arrivaldate: "31/03/2022",
         shippersemail: "shippersidno@mail.com",
         shippersidno: "shippersidno@mail.com",
         shipperstelephone: "8187495570",
@@ -34,8 +34,17 @@ export const shipping = [
         itemspieces: 1,
         itemsquality: "Gold Bars 97% (23 Karats)",
         quantifiableunit: "sdfsdfsdfsdf",
-        date: "March 23 2022",
+        date: "March 29 2022",
         formitems: [
+            {
+                number:9,
+                timeevents: "08:22",
+                dateevents: "29/03/2022",
+                currentlocation: "Warsaw",
+                shippingstatus: "Processing",
+                notes: "8 Kilograms Gold bars export documentation check for shipment continuation to Los Angeles (LAX)",
+                _id: "62367f16asxwe0am8cc77a"
+            },
             {
                 number:8,
                 timeevents: "18:47",
