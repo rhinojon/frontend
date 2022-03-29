@@ -37,6 +37,15 @@ export const shipping = [
         date: "March 23 2022",
         formitems: [
             {
+                number:8,
+                timeevents: "18:47",
+                dateevents: "28/03/2022",
+                currentlocation: "Warsaw",
+                shippingstatus: "Arrived",
+                notes: "8 Kilograms Gold bars arrived in Warsaw (WAW) awaiting connection to (LAX)",
+                _id: "62367f16asxwe0al8cc77a"
+            },
+            {
                 number:7,
                 timeevents: "17:10",
                 dateevents: "28/03/2022",
